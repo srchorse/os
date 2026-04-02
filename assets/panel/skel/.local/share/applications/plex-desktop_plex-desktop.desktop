@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-SnapInstanceName=plex-desktop
+Type=Application
+Name=Plex
+Comment=
+X-SnapAppName=plex-desktop
+Exec=/snap/bin/plex-desktop
+Icon=plex-desktop
+Terminal=false
+Categories=Audio;Music;Video;Player;Media;
+Hidden=false
+NoDisplay=false

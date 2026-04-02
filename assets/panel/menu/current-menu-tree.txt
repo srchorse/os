@@ -1,0 +1,55 @@
+# Captured from the live Cinnamon menu tree on 2026-03-16 using CMenu.
+[Chrome Apps]
+chrome-hdcbiajfnegmhbacdkdjbeboifmnkjfg-Default.desktop | Google Play Books
+chrome-hpfldicfbfomlpcikngkocigghgafkph-Default.desktop | Messages
+chrome-eikjhbkpemdappjfcmdeeeamdpkgabmk-Default.desktop | SoundCloud
+chrome-dlgohinmglaoopaiplliaecdpmnepmga-Default.desktop | Todoist
+chrome-okmpahnenabdagpkoojkkcjacnionjdl-Default.desktop | Trello
+[Accessories]
+thunar-bulk-rename.desktop | Bulk Rename
+org.gnome.Calculator.desktop | Calculator
+org.gnome.DiskUtility.desktop | Disks
+org.gnome.FileRoller.desktop | File Roller
+nemo.desktop | Files
+org.gnome.seahorse.Application.desktop | Passwords and Keys
+redshift-gtk.desktop | Redshift
+org.gnome.Screenshot.desktop | Screenshot
+[Games]
+mc-installer_mc-installer.desktop | Minecraft
+[Graphics]
+blender_blender.desktop | Blender
+gimp.desktop | GIMP
+org.inkscape.Inkscape.desktop | Inkscape Vector Graphics Editor
+libreoffice-draw.desktop | LibreOffice Draw
+[Internet]
+snap-store_snap-store.desktop | App Center
+google-chrome.desktop | Google Chrome
+org.remmina.Remmina-file.desktop | Remmina Connect
+org.remmina.Remmina.desktop | Remmina Remote Desktop Client
+slack_slack.desktop | Slack
+transmission-gtk.desktop | Transmission
+Zoom.desktop | Zoom Workplace
+teams-for-linux_teams-for-linux.desktop | Teams for Linux
+discord_discord.desktop | Discord
+[Other]
+gnome-disk-image-mounter.desktop | Disk Image Mounter
+gnome-disk-image-writer.desktop | Disk Image Writer
+gnome-online-accounts-gtk.desktop | Online Accounts
+qemu.desktop | QEMU
+[Programming]
+sublime_text.desktop | Sublime Text
+[Sound & Video]
+plex-desktop_plex-desktop.desktop | Plex
+simplescreenrecorder.desktop | SimpleScreenRecorder
+org.gnome.SoundJuicer.desktop | Sound Juicer
+org.gnome.SoundRecorder.desktop | Sound Recorder
+spotify_spotify.desktop | Spotify
+vlc.desktop | VLC media player
+[Universal Access]
+[Administration]
+snap-store_snap-store.desktop | App Center
+cubic.desktop | Cubic
+guake.desktop | Guake Terminal
+org.gnome.Software.desktop | Software
+update-manager.desktop | Software Updater
+virtualbox.desktop | VirtualBox

@@ -1,0 +1,17 @@
+# These are the user-local desktop files that are actually visible in the live
+# Cinnamon menu on the capture machine. Keeping this list explicit prevents the
+# installer from copying unrelated launcher leftovers into the final image.
+chrome-hdcbiajfnegmhbacdkdjbeboifmnkjfg-Default.desktop
+chrome-hpfldicfbfomlpcikngkocigghgafkph-Default.desktop
+chrome-eikjhbkpemdappjfcmdeeeamdpkgabmk-Default.desktop
+chrome-dlgohinmglaoopaiplliaecdpmnepmga-Default.desktop
+chrome-okmpahnenabdagpkoojkkcjacnionjdl-Default.desktop
+nemo.desktop
+org.gnome.Screenshot.desktop
+gimp.desktop
+libreoffice-draw.desktop
+org.remmina.Remmina-file.desktop
+gnome-disk-image-mounter.desktop
+gnome-disk-image-writer.desktop
+qemu.desktop
+plex-desktop_plex-desktop.desktop
